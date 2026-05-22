@@ -76,7 +76,7 @@ GLOBAL_LIST_INIT(cat_default_emotes, list(
 				visible_emote("suddenly stops and stares at something unseen[istype(A) ? " near [A]":""].")
 
 // Instakills mice.
-/mob/living/simple_mob/animal/passive/cat/apply_melee_effects(var/atom/A)
+/mob/living/simple_mob/animal/passive/cat/apply_melee_effects(atom/A)
 	if(ismouse(A))
 		var/mob/living/simple_mob/animal/passive/mouse/mouse = A
 		if(mouse.getMaxHealth() < 20) // In case a badmin makes giant mice or something.
@@ -91,8 +91,8 @@ GLOBAL_LIST_INIT(cat_default_emotes, list(
 
 	. = ..()
 
-	if(.) // We're pals, but they might be a dirty mouse...
-		if(ismouse(L))
+	if(.) // We're pals, but they might be a dirty mouse (or any other small fun to kill pest)...
+		if(HAS_TRAIT(L, TRAIT_AMBIENT_PEST_MOB))
 			return FALSE // Cats and mice can never get along.
 
 /mob/living/simple_mob/animal/passive/cat/verb/become_friends()

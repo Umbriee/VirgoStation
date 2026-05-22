@@ -186,7 +186,7 @@
 			to_chat(user, span_notice("You must be holding paper for the pda to print to!"))
 
 
-/datum/data/pda/app/notekeeper/proc/changetonote(var/noteindex)
+/datum/data/pda/app/notekeeper/proc/changetonote(noteindex)
 	// save note to current slot, then load another slot
 	storednotes[currentnote] = note
 	storedtitles[currentnote] = notetitle
@@ -248,7 +248,7 @@
 
 /datum/data/pda/app/news/proc/compile_news()
 	var/list/feeds = list()
-	for(var/datum/feed_channel/channel in news_network.network_channels)
+	for(var/datum/feed_channel/channel in GLOB.news_network.network_channels)
 		var/list/messages = list()
 		if(!channel.censored)
 			var/index = 0
@@ -280,7 +280,7 @@
 	var/list/news = list()
 
 	// Compile all the newscasts
-	for(var/datum/feed_channel/channel in news_network.network_channels)
+	for(var/datum/feed_channel/channel in GLOB.news_network.network_channels)
 		if(!channel.censored)
 			var/index = 0
 			for(var/datum/feed_message/FM in channel.messages)

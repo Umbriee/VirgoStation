@@ -1,7 +1,7 @@
 /obj/structure/drop_pod
-	name = "drop pod"
-	desc = "Standard Commonwealth drop pod. There are file marks where the serial number should be, however."
-	icon = 'icons/obj/structures/droppod.dmi'
+	name = "hellpod"
+	desc = "A Hellpod used to transport Helldivers, their equipment, and statagems from the Super Destroyer! -- Wait, whats it doing here!?"
+	icon = 'maps/umbreesships/droppod.dmi'
 	icon_state = "pod"
 	density = TRUE
 	anchored = TRUE

@@ -1003,10 +1003,13 @@
 	. = ..(user)
 	if(.)
 		return TRUE
-	activate(user)
+	if(user && !user.restrained() && !user.stat && in_range(src, user))
+		// Anti-Jack checks
+		activate(user)
 
 /obj/item/toy/desk/click_alt(mob/user)
-	activate(user)
+	if(user && !user.restrained() && !user.stat && in_range(src, user))
+		activate(user)
 
 /obj/item/toy/desk/MouseDrop(mob/user as mob) // Code from Paper bin, so you can still pick up the deck
 	if((user == usr && (!( user.restrained() ) && (!( user.stat ) && (user.contents.Find(src) || in_range(src, user))))))

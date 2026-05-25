@@ -1,0 +1,515 @@
+"ag" = (/obj/structure/table/marble{color = "#505050"},/obj/item/multitool/echoveil,/turf/simulated/floor/tiled/dark,/area/space)
+"am" = (/obj/machinery/computer/med_data{dir = 8},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"aP" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 5},/obj/machinery/firealarm/angled/hidden,/turf/simulated/floor/tiled/dark,/area/echoveil/command)
+"aR" = (/obj/machinery/computer/ship/helm{icon_state = "adv_helm"},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"ba" = (/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/radlock)
+"bb" = (/obj/structure/hull_corner,/turf/simulated/floor/reinforced/airless,/area/space)
+"bq" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"bw" = (/obj/machinery/power/terminal,/turf/simulated/floor/plating/eris/under,/area/echoveil/substation/shield)
+"bB" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 10},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"bD" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/command/captainwc)
+"bG" = (/obj/structure/railing/grey{dir = 8},/obj/machinery/light{dir = 4},/turf/simulated/floor/glass/reinforced,/area/echoveil/command/bridge)
+"bH" = (/obj/machinery/door/airlock/angled_tgmc/pod{name = "engine control"; req_one_access = list(777); dir = 4},/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"bV" = (/obj/machinery/alarm/angled/hidden{req_one_access = list(777); dir = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 10},/turf/simulated/floor/tiled/dark,/area/echoveil/command)
+"cc" = (/obj/structure/bed/chair/bay/comfy/blue{dir = 1},/obj/effect/floor_decal/milspec/color/blue/half{dir = 1; color = "#C0C0C0"},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"cg" = (/obj/machinery/door/window/eastleft{dir = 2},/turf/simulated/floor/tiled/dark,/area/echoveil/command/captainwc)
+"cl" = (/turf/simulated/wall/tgmc/durawall,/area/space)
+"cD" = (/obj/machinery/door/airlock/angled_tgmc/wide/dropship2{transform = matrix(0, 1, -1, 0, 0, 0)},/obj/effect/map_helper/airlock/door/ext_door,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/radlock)
+"cP" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 4},/obj/structure/cable/blue{icon_state = "1-2"},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"cZ" = (/obj/machinery/computer/power_monitor{dir = 4},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"db" = (/obj/machinery/light,/turf/simulated/floor/tiled/dark,/area/space)
+"dh" = (/obj/structure/bed/chair/bay/comfy/black{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"di" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 8},/obj/structure/railing/grey{dir = 8},/obj/structure/bed/chair/sofa/blue{dir = 4},/turf/simulated/floor/wood/alt,/area/echoveil/command)
+"dr" = (/obj/structure/table/marble{color = "#505050"},/turf/simulated/floor/bmarble,/area/space)
+"dv" = (/obj/structure/toilet{dir = 8},/turf/simulated/floor/tiled/milspec/sterile,/area/echoveil/command/captainwc)
+"dy" = (/obj/machinery/button/remote/blast_door{id = "fusionradblocker"; name = "Bridge Lockdown"; dir = 8; pixel_x = 32},/obj/machinery/atmospherics/unary/vent_pump/siphon/on/atmos{dir = 1},/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/generatorcore)
+"dI" = (/obj/machinery/power/apc/angled/hidden{req_one_access = list(777); dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"ef" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 4},/obj/effect/floor_decal/milspec/color/black/corner{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"el" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/bmarble,/area/space)
+"ew" = (/obj/effect/floor_decal/milspec/color/blue/half,/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"eQ" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"fq" = (/turf/space/internal_edge/topleft,/area/echoveil/command/bridge)
+"fw" = (/turf/simulated/floor/tiled/dark,/area/echoveil/command)
+"fC" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 5},/obj/structure/catwalk,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"fR" = (/obj/item/geiger/wall/east,/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"fS" = (/obj/effect/floor_decal/milspec/color/black/half,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"gg" = (/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"gt" = (/obj/machinery/button/remote/blast_door{id = "fusionradblocker"; name = "Bridge Lockdown"; dir = 4; pixel_x = -32},/obj/machinery/computer/security/engineering{network = list("Echoveil_Engineering"); dir = 4},/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"gE" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 5},/obj/structure/cable/blue{icon_state = "1-2"},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"gI" = (/obj/structure/cable/blue{icon_state = "1-2"},/turf/simulated/floor/plating/eris/under,/area/echoveil/substation/shield)
+"gN" = (/obj/machinery/door/airlock/angled_tgmc/pod{name = "engine control"; req_one_access = list(777)},/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"hb" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 1; color = "#C0C0C0"},/obj/effect/floor_decal/milspec/color/black/corner{color = "#C0C0C0"},/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"hk" = (/obj/structure/table/marble{color = "#505050"},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"hp" = (/turf/simulated/floor/tiled/techmaint,/area/space)
+"hs" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"hR" = (/obj/machinery/shower{dir = 4},/obj/structure/window/basic,/obj/structure/curtain/open/shower,/obj/effect/floor_decal/borderfloorblack{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/command/captainwc)
+"hZ" = (/turf/simulated/wall/tgmc/durawall/deco3,/area/space)
+"it" = (/turf/space/internal_edge/left,/area/echoveil/command)
+"ix" = (/obj/machinery/atmospherics/pipe/simple/hidden,/turf/simulated/floor/tiled/techfloor,/area/echoveil/engineering/engine/generatorcore)
+"iT" = (/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"jg" = (/obj/structure/railing/grey{dir = 8},/turf/simulated/floor/tiled/milspec/raised,/area/space)
+"jl" = (/obj/machinery/atmospherics/pipe/simple/hidden/aux,/obj/machinery/atmospherics/pipe/simple/hidden,/obj/effect/floor_decal/milspec/color/orange/half,/turf/simulated/floor/tiled/dark,/area/echoveil)
+"jo" = (/obj/effect/floor_decal/spline/fancy/wood,/obj/machinery/firealarm/angled/hidden{dir = 1},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"jr" = (/obj/effect/shuttle_landmark/premade/echoveil/starboard_quarter,/turf/space,/area/space)
+"jN" = (/turf/simulated/wall/tgmc/durawall/deco0,/area/echoveil/command)
+"jP" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"jZ" = (/obj/machinery/computer/security/telescreen{pixel_x = 32},/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/command)
+"kd" = (/obj/machinery/door/airlock/angled_tgmc/command{req_one_access = list(777)},/obj/effect/floor_decal/milspec/monotile,/obj/machinery/door/firedoor/glass,/obj/structure/cable/blue{icon_state = "1-2"},/turf/simulated/floor/tiled/milspec,/area/echoveil/command/bridge)
+"kj" = (/obj/machinery/power/apc/angled,/obj/machinery/power/sensor{name = "Powernet Sensor - Engineering Subgrid"; name_tag = "Engineering Subgrid"},/obj/structure/cable/orange{icon_state = "0-8"},/obj/structure/cable/orange{icon_state = "1-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"ko" = (/obj/effect/floor_decal/milspec/color/black/corner{dir = 4; color = "#C0C0C0"},/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"ku" = (/obj/structure/bed/chair/bay/comfy/captain{dir = 4},/obj/structure/railing/grey{dir = 8},/obj/effect/floor_decal/milspec/color/blue/half{dir = 5},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"kw" = (/obj/machinery/light/small{dir = 4},/turf/simulated/floor/tiled/techmaint,/area/space)
+"kx" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/engineering/engine/generatorcore)
+"kD" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"kK" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"kX" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"kZ" = (/obj/machinery/alarm/angled/hidden{req_one_access = list(777); dir = 1},/obj/machinery/washing_machine{pixel_x = -9; pixel_y = 12},/turf/simulated/floor/tiled/milspec/sterile,/area/echoveil/command/captainwc)
+"lj" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 9},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"lr" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 8},/obj/effect/floor_decal/milspec/color/black/corner,/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"lu" = (/turf/simulated/floor/maglev{transform = matrix(0, 1, -1, 0, 0, 0)},/area/echoveil/engineering/engine/generatorcore)
+"ly" = (/obj/structure/cable/blue{icon_state = "4-8"},/obj/effect/floor_decal/milspec/color/green/half{dir = 8},/turf/simulated/floor/tiled/milspec/sterile,/area/echoveil/command/captainwc)
+"lC" = (/turf/simulated/floor/tiled/milspec/sterile,/area/echoveil/command/captainwc)
+"lF" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"lL" = (/obj/machinery/power/port_gen/pacman,/obj/effect/floor_decal/milspec/color/black/half{dir = 10},/obj/effect/floor_decal/milspec/box,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"lR" = (/obj/structure/railing/grey,/obj/structure/railing/grey{dir = 8},/turf/simulated/floor/glass/reinforced,/area/echoveil/command/bridge)
+"lZ" = (/turf/simulated/wall/rpshull,/area/echoveil/command/bridge)
+"mb" = (/obj/structure/bed/chair/office/dark{dir = 8},/obj/effect/floor_decal/milspec/color/black/corner,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"ml" = (/obj/machinery/light{dir = 1},/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/generatorcore)
+"mq" = (/obj/machinery/atmospherics/pipe/simple/hidden,/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/generatorcore)
+"ms" = (/obj/effect/catwalk_plated/dark,/obj/machinery/atmospherics/pipe/manifold4w/hidden/aux,/obj/machinery/atmospherics/pipe/simple/hidden{dir = 5},/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"mx" = (/obj/machinery/power/shield_generator/upgraded/admin,/obj/structure/cable/blue{icon_state = "0-4"},/turf/simulated/floor/plating/eris/under,/area/echoveil/substation/shield)
+"my" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 9},/obj/structure/table/fancyblack,/obj/machinery/alarm/angled/hidden{req_one_access = list(777)},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"mA" = (/obj/structure/stairs/bottom,/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"mE" = (/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/milspec/sterile,/area/space)
+"mG" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 9},/obj/structure/railing/grey{dir = 8},/obj/structure/bed/chair/sofa/corner/blue{dir = 4},/obj/structure/railing/grey{dir = 1},/turf/simulated/floor/wood/alt,/area/echoveil/command)
+"mO" = (/obj/machinery/door/airlock/maintenance/common,/obj/effect/floor_decal/milspec/monotile,/obj/machinery/door/firedoor/glass,/turf/simulated/floor/tiled/milspec,/area/echoveil/substation/shield)
+"nd" = (/turf/simulated/floor/tiled/dark,/area/echoveil)
+"nl" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 1},/obj/effect/floor_decal/milspec/color/black/corner,/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"no" = (/obj/machinery/power/emitter/gyrotron/umbedit/anchored{id_tag = "Echoveil"; dir = 1},/turf/simulated/floor/tiled/techfloor,/area/echoveil/engineering/engine/generatorcore)
+"nw" = (/obj/machinery/light{dir = 4},/obj/structure/flora/pottedplant/orientaltree,/obj/structure/railing/grey{dir = 8},/obj/structure/railing/grey{dir = 1},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"nz" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil)
+"oh" = (/turf/simulated/wall/rpshull,/area/echoveil)
+"on" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"oJ" = (/turf/space/internal_edge/left,/area/echoveil/command/bridge)
+"oQ" = (/obj/structure/railing/grey{dir = 4},/obj/machinery/light{dir = 8},/turf/simulated/floor/glass/reinforced,/area/echoveil/command/bridge)
+"oX" = (/obj/machinery/computer/ship/sensors{icon_state = "adv_sensors"},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"pk" = (/obj/structure/railing/grey,/turf/simulated/floor/glass/reinforced,/area/echoveil/command/bridge)
+"po" = (/obj/structure/cable{icon_state = "0-8"},/obj/machinery/power/terminal,/obj/machinery/light/small{dir = 1},/turf/simulated/floor/plating/eris/under,/area/space)
+"pA" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"pE" = (/obj/structure/shuttle/engine/heater,/turf/space,/area/space)
+"pM" = (/obj/structure/railing/grey{dir = 1},/obj/structure/railing/grey{dir = 8},/obj/structure/table/marble{color = "#505050"},/obj/machinery/button/remote/blast_door{id = "bridgelockdown"; name = "Bridge Lockdown"; pixel_y = 3; pixel_x = -2},/obj/machinery/light_switch{pixel_y = -4; pixel_x = -2},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"pR" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/command)
+"qd" = (/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"qg" = (/turf/space/internal_edge/top,/area/echoveil/command)
+"qp" = (/obj/effect/floor_decal/milspec/color/blue/half,/obj/structure/cable/blue{icon_state = "2-4"},/turf/simulated/floor/tiled/dark,/area/echoveil/command)
+"qP" = (/obj/machinery/door/blast/angled/open{dir = 4; id = "bridgelockdown"},/turf/simulated/wall/tgmc/window/darkwall/reinf,/area/echoveil/command)
+"qV" = (/obj/machinery/door/airlock/maintenance/common,/obj/effect/floor_decal/milspec/monotile,/obj/machinery/door/firedoor/glass/hidden/steel,/turf/simulated/floor/tiled/milspec,/area/echoveil/substation/shield)
+"ra" = (/obj/machinery/light,/obj/effect/floor_decal/milspec/color/black/half,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"ro" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"rr" = (/obj/machinery/computer/gyrotron_control{id_tag = "Echoveil"; dir = 4},/obj/machinery/light,/obj/effect/floor_decal/milspec/color/black/half{dir = 10},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"rs" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"rt" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/starboardstowage)
+"rw" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 5},/obj/structure/bed/chair/sofa/left/blue,/obj/structure/railing/grey{dir = 4},/obj/structure/railing/grey{dir = 1},/turf/simulated/floor/wood/alt,/area/echoveil/command)
+"rC" = (/obj/effect/shuttle_landmark/premade/echoveil/port_abeam,/turf/space,/area/space)
+"rL" = (/obj/machinery/door/airlock/angled_tgmc/wide/dropship2{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"rM" = (/obj/machinery/ion_engine{dir = 1},/turf/space,/area/space)
+"sa" = (/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/starboardstowage)
+"sb" = (/obj/machinery/atmospherics/unary/vent_pump/siphon/on/atmos,/obj/item/geiger/wall/east,/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/generatorcore)
+"sl" = (/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"sx" = (/obj/effect/floor_decal/milspec/color/black/half{color = "#C0C0C0"},/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"sJ" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"sQ" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 6},/obj/structure/cable/blue{icon_state = "1-8"},/obj/machinery/power/apc/angled/hidden{dir = 4; req_one_access = list(777)},/obj/structure/cable/blue,/turf/simulated/floor/tiled/dark,/area/echoveil/command)
+"ta" = (/obj/effect/floor_decal/milspec/hatchmarks,/turf/simulated/floor/tiled/milspec,/area/space)
+"tb" = (/obj/machinery/firealarm/angled/hidden,/turf/simulated/floor/tiled/milspec,/area/space)
+"te" = (/obj/machinery/alarm/angled/hidden{dir = 1},/obj/effect/floor_decal/milspec/color/black/half,/obj/structure/cable/blue{icon_state = "4-8"},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"tk" = (/obj/machinery/atmospherics/portables_connector,/obj/effect/floor_decal/industrial/outline/yellow,/obj/machinery/portable_atmospherics/canister/empty,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"to" = (/obj/machinery/door/blast/angled/open{dir = 2; id = "bridgelockdown"},/turf/simulated/wall/tgmc/window/darkwall,/area/echoveil/command/bridge)
+"tq" = (/obj/effect/shuttle_landmark/premade/echoveil/starboard_bow,/turf/space,/area/space)
+"tt" = (/obj/structure/lattice,/turf/space,/area/space)
+"tw" = (/obj/machinery/firealarm/angled/hidden{dir = 1},/obj/effect/floor_decal/milspec/color/black/half,/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"tC" = (/obj/structure/railing/grey{dir = 1},/obj/item/modular_computer/console/preset/command{icon_state = "adv_engines"; icon = 'icons/obj/computer.dmi'},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"uv" = (/turf/space,/area/space)
+"uw" = (/turf/simulated/wall/tgmc/durawall/deco0,/area/space)
+"uC" = (/obj/effect/map_helper/airlock/atmos/chamber_pump,/obj/effect/map_helper/airlock/sensor/chamber_sensor,/obj/structure/catwalk,/obj/structure/railing,/obj/structure/handrail{dir = 1; pixel_y = 8},/obj/machinery/atmospherics/unary/vent_pump/high_volume/aux{dir = 1},/obj/machinery/airlock_sensor{req_one_access = list(777); pixel_y = -24; dir = 1},/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"uE" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"uK" = (/obj/machinery/power/apc/angled/hidden{req_one_access = list(777); is_critical = 1; dir = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/generatorcore)
+"vc" = (/turf/simulated/floor/tiled/techfloor,/area/echoveil/engineering/engine/generatorcore)
+"ve" = (/obj/effect/floor_decal/industrial/warning,/obj/effect/floor_decal/industrial/warning{dir = 1},/obj/machinery/door/blast/angled/open{dir = 2; id = "bridgelockdown"},/turf/simulated/floor/reinforced/airless,/area/echoveil/command/bridge)
+"vi" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 10},/obj/structure/table/marble,/obj/machinery/light{dir = 8},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"vx" = (/obj/machinery/door/airlock/angled_tgmc/wide/dropship2{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"vN" = (/turf/simulated/floor/glass/reinforced,/area/echoveil/command/bridge)
+"vO" = (/turf/simulated/wall/rpshull,/area/space)
+"vS" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 6},/obj/structure/dummystairs,/obj/structure/railing/grey{dir = 4},/turf/simulated/floor/wood/alt,/area/echoveil/command)
+"we" = (/obj/structure/catwalk,/obj/structure/railing{dir = 8},/obj/structure/handrail{dir = 4; pixel_x = 8},/obj/machinery/atmospherics/unary/vent_pump/high_volume/aux{dir = 4},/obj/item/geiger/wall/west,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"wf" = (/obj/structure/cable/blue{icon_state = "2-8"},/turf/simulated/floor/plating/eris/under,/area/echoveil/substation/shield)
+"wt" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 4},/obj/structure/cable/blue{icon_state = "2-4"},/turf/simulated/floor/tiled/dark,/area/echoveil/command)
+"wB" = (/obj/machinery/light{dir = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"wE" = (/obj/structure/catwalk,/obj/machinery/light{dir = 1},/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"wI" = (/turf/simulated/wall/tgmc/durawall/deco0,/area/echoveil/command/bridge)
+"wO" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/command/bridge)
+"wU" = (/turf/simulated/floor/plating/eris/under,/area/space)
+"xe" = (/turf/simulated/wall/tgmc/durawall/deco2,/area/echoveil/engineering/engine/generatorcore)
+"xg" = (/obj/machinery/computer/ship/engines{icon_state = "adv_engines"},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"xl" = (/obj/machinery/door/blast/angled/open{dir = 4; id = "fusionradblocker"},/turf/simulated/floor/tiled/techfloor,/area/echoveil/engineering/engine/generatorcore)
+"xy" = (/obj/effect/map_helper/airlock/sensor/int_sensor,/obj/machinery/airlock_sensor{pixel_y = -24; req_one_access = list(777); command = "cycle_interior"; dir = 1; pixel_x = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 6},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/radlock)
+"xI" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 4},/obj/effect/floor_decal/milspec/color/black/corner{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"xN" = (/obj/machinery/light{dir = 4},/obj/machinery/power/apc/angled/hidden{dir = 4; req_one_access = list(777)},/obj/structure/cable/blue,/turf/simulated/floor/tiled/dark,/area/echoveil/command/captain)
+"xP" = (/turf/space/internal_edge/topright,/area/echoveil/command/bridge)
+"xR" = (/obj/structure/catwalk,/obj/machinery/power/apc/angled/hidden{req_one_access = list(777); is_critical = 1; dir = 4},/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"xS" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"yf" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 4},/obj/effect/floor_decal/milspec/color/black/corner{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"yw" = (/obj/machinery/computer/fusion_fuel_control{id_tag = "Echoveil"; dir = 4},/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"yC" = (/obj/machinery/light{dir = 8},/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"yK" = (/obj/structure/railing/grey,/obj/structure/railing/grey{dir = 4},/turf/simulated/floor/glass/reinforced,/area/echoveil/command/bridge)
+"yR" = (/obj/machinery/alarm/angled/hidden,/turf/simulated/floor/tiled/milspec,/area/space)
+"yV" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil)
+"zo" = (/obj/effect/floor_decal/milspec/color/black/half,/obj/structure/cable/blue{icon_state = "4-8"},/obj/machinery/light,/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"zT" = (/obj/effect/floor_decal/milspec/color/black/corner{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"zU" = (/turf/space/internal_edge/bottomleft,/area/echoveil)
+"Ac" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"Ah" = (/obj/effect/map_helper/airlock/sensor/ext_sensor,/obj/machinery/atmospherics/pipe/simple/hidden,/obj/machinery/airlock_sensor{req_one_access = list(777); pixel_x = -24; command = "cycle_exterior"; dir = 4},/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/radlock)
+"Ai" = (/obj/machinery/computer/fusion_core_control{id_tag = "Echoveil"; dir = 4},/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"An" = (/turf/simulated/wall/tgmc/sanitary,/area/space)
+"Ap" = (/obj/effect/floor_decal/milspec/color/orange/half,/obj/effect/floor_decal/milspec/color/black/corner{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Ax" = (/obj/effect/catwalk_plated/dark,/obj/machinery/atmospherics/pipe/manifold/hidden/aux{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"AA" = (/obj/effect/floor_decal/industrial/warning{dir = 8},/obj/effect/floor_decal/industrial/warning{dir = 4},/obj/machinery/door/blast/angled/open{dir = 4; id = "bridgelockdown"},/turf/simulated/floor/reinforced/airless,/area/echoveil/command/bridge)
+"AE" = (/obj/machinery/power/rad_collector/mapped,/obj/machinery/light{dir = 4},/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/generatorcore)
+"AL" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/engineering/engine/controlroom)
+"AO" = (/obj/machinery/power/breakerbox/activated{RCon_tag = "Engineering Substation Bypass"},/turf/simulated/floor/plating/eris/under,/area/space)
+"Bo" = (/obj/machinery/computer/rcon{dir = 4},/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"Br" = (/obj/structure/railing/grey{dir = 8},/obj/item/modular_computer/console/preset/medical,/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"Bt" = (/obj/effect/map_helper/airlock/atmos/chamber_pump,/obj/structure/catwalk,/obj/structure/railing,/obj/structure/handrail{dir = 1; pixel_y = 8},/obj/machinery/atmospherics/unary/vent_pump/high_volume/aux{dir = 1},/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"Bx" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"By" = (/obj/effect/floor_decal/milspec/color/orange/half,/obj/effect/floor_decal/milspec/color/black/corner{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"BD" = (/obj/machinery/power/apc/angled/hidden{dir = 1},/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/milspec,/area/space)
+"BG" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 4},/obj/structure/railing/grey{dir = 4},/turf/simulated/floor/wood/alt,/area/echoveil/command)
+"BQ" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/engineering/starboardstowage)
+"BV" = (/obj/machinery/computer/station_alert/all{dir = 4},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"BZ" = (/obj/machinery/power/rad_collector/mapped,/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/generatorcore)
+"Cd" = (/obj/machinery/power/apc/angled/hidden{req_one_access = list(777); is_critical = 1; dir = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 5},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"Cm" = (/turf/simulated/floor/tiled/milspec/sterile,/area/space)
+"Cn" = (/obj/structure/hull_corner{dir = 4},/turf/simulated/floor/reinforced/airless,/area/space)
+"Cp" = (/obj/effect/floor_decal/milspec/color/black/corner{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"Cs" = (/turf/simulated/floor/plating,/area/echoveil)
+"Cu" = (/obj/effect/floor_decal/milspec/color/black/corner{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"CA" = (/obj/machinery/power/smes/buildable/disable_output{RCon_tag = "Substation - Engineering"},/obj/structure/cable/orange{icon_state = "0-8"},/obj/structure/cable/orange{icon_state = "0-4"},/turf/simulated/floor/plating/eris/under,/area/space)
+"CT" = (/obj/item/geiger/wall/south,/obj/effect/floor_decal/milspec/color/black/half,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"CX" = (/obj/structure/marker_beacon{mapped_in_color = "Olive"; name = "green beacon"; perma = 1},/turf/simulated/floor/reinforced/airless,/area/space)
+"Dd" = (/obj/machinery/light{dir = 8},/obj/structure/flora/pottedplant/orientaltree,/obj/structure/railing/grey{dir = 1},/obj/structure/railing/grey{dir = 4},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"Di" = (/obj/effect/floor_decal/milspec/color/black/corner,/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"Ds" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 4},/obj/effect/floor_decal/milspec/color/black/corner{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"Du" = (/obj/machinery/shipsensors{dir = 1; range = 3.5},/obj/machinery/light/small{dir = 4},/turf/simulated/floor/reinforced/airless,/area/echoveil/command/bridge)
+"DB" = (/obj/machinery/light,/obj/machinery/power/apc/angled/hidden{dir = 8; req_one_access = list(777)},/turf/simulated/floor/tiled/dark,/area/space)
+"DD" = (/obj/machinery/light/floortube{dir = 4},/obj/machinery/fusion_fuel_injector/mapped{dir = 4; id_tag = "Echoveil"},/turf/simulated/floor/tiled/techfloor,/area/echoveil/engineering/engine/generatorcore)
+"DF" = (/obj/machinery/power/breakerbox/activated{RCon_tag = "Shield Substation Bypass"},/turf/simulated/floor/plating/eris/under,/area/echoveil/substation/shield)
+"DH" = (/obj/structure/panic_button{pixel_y = 32},/obj/structure/table/marble{color = "#505050"},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"DJ" = (/obj/machinery/light/floortube{dir = 8},/obj/machinery/fusion_fuel_injector/mapped{dir = 8; id_tag = "Echoveil"},/turf/simulated/floor/tiled/techfloor,/area/echoveil/engineering/engine/generatorcore)
+"DL" = (/obj/effect/floor_decal/milspec/color/green/half{dir = 4},/obj/structure/cable/blue{icon_state = "4-8"},/obj/structure/cable/blue{icon_state = "2-8"},/turf/simulated/floor/tiled/dark,/area/echoveil/command/captain)
+"DN" = (/obj/machinery/power/smes/buildable/engine_default{RCon_tag = "EV - S_Shield"; name = "Shield Sub"},/turf/simulated/floor/plating/eris/under,/area/echoveil/substation/shield)
+"DT" = (/obj/structure/bed/chair/bay/comfy/brown{dir = 1},/obj/effect/floor_decal/milspec/color/blue/half{dir = 1; color = "#C0C0C0"},/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"Eu" = (/obj/effect/floor_decal/milspec/hatchmarks,/obj/machinery/mech_recharger{icon = 'icons/turf/shuttle_alien_blue.dmi'},/obj/machinery/atmospherics/pipe/simple/visible/aux{dir = 4},/turf/simulated/floor/tiled/milspec,/area/space)
+"EL" = (/obj/machinery/door/airlock/angled_tgmc/command{req_one_access = list(777); dir = 4},/obj/effect/floor_decal/milspec/monotile,/obj/machinery/door/firedoor/glass,/obj/structure/cable/blue{icon_state = "4-8"},/turf/simulated/floor/tiled/milspec,/area/echoveil/command)
+"EM" = (/turf/space/internal_edge/topleft,/area/echoveil)
+"EV" = (/obj/structure/window/plastitanium/full,/obj/structure/window/plastitanium{dir = 8},/obj/structure/window/plastitanium{dir = 4},/obj/structure/grille,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/generatorcore)
+"Fl" = (/obj/machinery/alarm/angled/hidden{dir = 8; req_one_access = list(777)},/turf/simulated/floor/tiled/dark,/area/space)
+"Fo" = (/turf/simulated/wall/tgmc/durawall/deco0,/area/echoveil/engineering/engine/generatorcore)
+"Fq" = (/turf/simulated/wall/tgmc/durawall/deco1,/area/space)
+"Fs" = (/obj/structure/table/steel_reinforced,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"FE" = (/obj/effect/floor_decal/milspec/color/black/half,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"FF" = (/turf/simulated/wall/tgmc/durawall/deco3,/area/echoveil/engineering/engine/generatorcore)
+"FG" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/engineering/hallway)
+"Gc" = (/obj/effect/floor_decal/milspec/color/black/corner{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Gi" = (/turf/simulated/wall/tgmc/durawall/deco1,/area/echoveil/engineering/engine/generatorcore)
+"GD" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 8},/obj/effect/floor_decal/milspec/color/black/corner{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"GE" = (/turf/space/internal_edge/top,/area/echoveil/command/bridge)
+"GK" = (/obj/machinery/power/rad_collector/mapped,/obj/machinery/light{dir = 8},/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/generatorcore)
+"GN" = (/obj/machinery/computer/crew{dir = 8},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"GW" = (/obj/machinery/door/airlock/angled_tgmc/engineering{req_one_access = list(777); dir = 4},/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"Hc" = (/turf/space/internal_edge/right,/area/echoveil/command/bridge)
+"Hj" = (/obj/effect/catwalk_plated/dark,/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"HB" = (/obj/machinery/power/apc/angled/hidden{req_one_access = list(777); is_critical = 1; dir = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 9},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"HL" = (/obj/structure/marker_beacon{mapped_in_color = "Burgundy"; name = "red beacon"; perma = 1},/turf/simulated/floor/reinforced/airless,/area/space)
+"HP" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"HV" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/engineering/portstowage)
+"Ib" = (/obj/structure/hull_corner/long_vert{dir = 5},/turf/space,/area/space)
+"Ih" = (/obj/machinery/door/airlock/angled_tgmc/wide/dropship2{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Ii" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/substation/shield)
+"Il" = (/obj/structure/railing/grey{dir = 4},/obj/item/modular_computer/console/preset/engineering,/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"Io" = (/obj/structure/hull_corner/long_horiz{dir = 10},/turf/simulated/floor/reinforced/airless,/area/space)
+"Ir" = (/obj/effect/floor_decal/milspec/color/orange/half,/obj/effect/floor_decal/milspec/color/black/corner{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"IE" = (/turf/space/internal_edge/topleft,/area/echoveil/command)
+"IH" = (/obj/machinery/door/airlock/angled_tgmc/wide/dropship2{dir = 8},/obj/effect/map_helper/airlock/door/int_door,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/radlock)
+"II" = (/obj/effect/shuttle_landmark/premade/echoveil/port_bow,/turf/space,/area/space)
+"IK" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil)
+"Jh" = (/obj/machinery/power/apc/angled/hidden{req_one_access = list(777); is_critical = 1; dir = 4},/obj/effect/floor_decal/milspec/color/black/half{dir = 6},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Jq" = (/turf/simulated/floor/plating/eris/under,/area/echoveil/substation/shield)
+"Jv" = (/obj/structure/railing/grey{dir = 1},/obj/structure/railing/grey{dir = 8},/obj/structure/railing/grey,/turf/simulated/floor/tiled/milspec/raised,/area/space)
+"JB" = (/obj/machinery/power/quantumpad/echoveil,/turf/simulated/floor/tiled/milspec/raised,/area/space)
+"JN" = (/obj/machinery/light{dir = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil)
+"Kg" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 8},/obj/effect/floor_decal/milspec/color/black/corner,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Ks" = (/obj/machinery/door/blast/angled/open{dir = 2; id = "fusionradblocker"},/turf/simulated/floor/tiled/techfloor,/area/echoveil/engineering/engine/generatorcore)
+"Kv" = (/turf/simulated/wall/tgmc/window/white,/area/space)
+"KE" = (/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"KM" = (/obj/effect/floor_decal/milspec/color/black/half,/turf/simulated/floor/tiled/dark,/area/echoveil/command)
+"KT" = (/obj/effect/floor_decal/milspec/color/orange/half,/turf/simulated/floor/tiled/dark,/area/echoveil)
+"Li" = (/obj/machinery/power/apc/angled/hidden{req_one_access = list(777); cell_type = /obj/item/cell/hyper; is_critical = 1},/obj/machinery/power/sensor{name = "Echoveil Shield Grid"; name_tag = "EV-SHIELD-GRID"},/obj/structure/cable/blue{icon_state = "1-8"},/obj/structure/cable/blue{icon_state = "0-8"},/turf/simulated/floor/plating/eris/under,/area/echoveil/substation/shield)
+"Lk" = (/turf/space/internal_edge/bottomright,/area/echoveil/command/bridge)
+"Lp" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 4},/obj/effect/floor_decal/milspec/color/black/corner{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"Lu" = (/obj/machinery/door/airlock/angled_tgmc/pod{name = "engine control"; req_one_access = list(777)},/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"LE" = (/obj/structure/railing/grey{dir = 1},/turf/simulated/floor/tiled/milspec/raised,/area/space)
+"LF" = (/turf/simulated/floor/glass/reinforced,/area/echoveil/engineering/engine/generatorcore)
+"LX" = (/obj/structure/bed/chair/bay/comfy/yellow{dir = 8},/obj/structure/railing/grey{dir = 4},/obj/effect/floor_decal/milspec/color/blue/half{dir = 9},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"Mj" = (/obj/machinery/atmospherics/pipe/manifold/hidden/aux,/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/obj/structure/catwalk,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"Mo" = (/obj/machinery/light{dir = 1},/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/milspec,/area/space)
+"MC" = (/turf/simulated/floor/plating/eris/under,/area/echoveil)
+"ME" = (/obj/machinery/light{dir = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 9},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"MI" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 1; color = "#C0C0C0"},/obj/effect/floor_decal/milspec/color/black/corner{dir = 8; color = "#C0C0C0"},/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"MP" = (/obj/effect/floor_decal/milspec/color/orange/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"MR" = (/obj/machinery/atmospherics/pipe/simple/hidden/aux{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/obj/effect/floor_decal/milspec/color/orange/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil)
+"MT" = (/obj/machinery/door/blast/angled/open{dir = 4; id = "bridgelockdown"},/turf/simulated/wall/tgmc/window/darkwall,/area/echoveil/command/bridge)
+"MV" = (/obj/machinery/door/airlock/angled_tgmc/pod{name = "engine control"; req_one_access = list(777); dir = 4},/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Na" = (/obj/structure/table/marble,/obj/machinery/power/apc/angled/hidden{dir = 8; req_one_access = list(777)},/obj/structure/cable/blue{icon_state = "0-2"},/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled/milspec/sterile,/area/echoveil/command/captainwc)
+"Nj" = (/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/controlroomstow)
+"Nq" = (/obj/machinery/door/airlock/angled_tgmc/engineering{req_one_access = list(777)},/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Nu" = (/obj/effect/floor_decal/milspec/color/blue/half,/obj/structure/cable/blue{icon_state = "2-8"},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"Nw" = (/obj/machinery/status_display{pixel_x = 32},/obj/effect/floor_decal/milspec/color/black/half{dir = 6},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"NC" = (/obj/effect/shuttle_landmark/premade/echoveil/port_quarter,/turf/space,/area/space)
+"NK" = (/obj/machinery/atmospherics/pipe/manifold/hidden{dir = 4},/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/generatorcore)
+"NO" = (/turf/simulated/floor/bmarble,/area/space)
+"NR" = (/obj/machinery/door/airlock/angled_tgmc/command{req_one_access = list(777)},/obj/effect/floor_decal/milspec/monotile,/obj/machinery/door/firedoor/glass,/obj/structure/cable/blue{icon_state = "1-2"},/turf/simulated/floor/tiled/milspec,/area/echoveil/command/captain)
+"NT" = (/obj/machinery/firealarm/angled/hidden{dir = 1},/turf/simulated/floor/tiled/milspec/sterile,/area/echoveil/command/captainwc)
+"Ob" = (/obj/item/geiger/wall/east,/obj/effect/floor_decal/milspec/color/black/half{dir = 5},/turf/simulated/floor/tiled/dark,/area/echoveil)
+"Oc" = (/obj/structure/cable/orange{icon_state = "2-4"},/turf/simulated/floor/plating/eris/under,/area/space)
+"Oe" = (/obj/effect/floor_decal/milspec/color/black/half,/obj/machinery/light,/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"Oo" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 5},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Os" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/engineering/engine/radlock)
+"OI" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 6},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"OJ" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 1},/obj/structure/table/fancyblack,/obj/item/modular_computer/laptop/preset/custom_loadout/hybrid{pixel_y = 10},/obj/machinery/light_switch{pixel_y = 32},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"OO" = (/obj/structure/dispenser/oxygen,/obj/effect/floor_decal/milspec/color/black/half{dir = 6},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"OQ" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/radlock)
+"Pe" = (/obj/structure/table/steel_reinforced,/obj/item/geiger,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"Ph" = (/obj/structure/railing/grey,/turf/simulated/floor/tiled/milspec/raised,/area/space)
+"Pj" = (/obj/machinery/door/airlock/angled_tgmc/personal{dir = 4; name = "Washroom"; req_one_access = list(777)},/obj/effect/floor_decal/milspec/monotile,/obj/machinery/door/firedoor/glass,/obj/structure/cable/blue{icon_state = "4-8"},/turf/simulated/floor/tiled/milspec,/area/echoveil/command/captainwc)
+"Pk" = (/turf/simulated/wall/tgmc/window/darkwall/reinf,/area/space)
+"Pq" = (/obj/structure/catwalk,/turf/simulated/floor,/area/echoveil/engineering/engine/generatorcore)
+"Pz" = (/obj/structure/railing/grey{dir = 4},/turf/simulated/floor/tiled/milspec/raised,/area/space)
+"PE" = (/turf/simulated/wall/tgmc/whitewall,/area/echoveil/command/captainwc)
+"PS" = (/obj/machinery/atmospherics/pipe/simple/hidden/aux{dir = 10},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 10},/turf/simulated/floor/tiled/dark,/area/echoveil)
+"Qe" = (/obj/machinery/atmospherics/portables_connector/aux,/obj/effect/floor_decal/industrial/outline,/obj/machinery/portable_atmospherics/canister/air,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"Qh" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 9},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Qi" = (/obj/machinery/computer/power_monitor{dir = 4},/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"Qj" = (/obj/structure/stairs/middle,/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"QA" = (/obj/structure/table/marble{color = "#505050"},/turf/simulated/floor/tiled/dark,/area/space)
+"QD" = (/obj/effect/map_helper/airlock/atmos/chamber_pump,/obj/structure/catwalk,/obj/structure/railing{dir = 8},/obj/structure/railing,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"QF" = (/obj/structure/hull_corner/long_horiz{dir = 9},/turf/simulated/floor/reinforced/airless,/area/space)
+"QH" = (/obj/structure/cable/blue{icon_state = "1-8"},/turf/simulated/floor/tiled/milspec/sterile,/area/echoveil/command/captainwc)
+"QK" = (/obj/structure/table/rack/shelf/steel,/obj/item/clothing/head/helmet/space/anomaly/alt,/obj/item/clothing/head/helmet/space/anomaly/alt,/obj/item/clothing/head/helmet/space/anomaly/alt,/obj/item/clothing/suit/space/anomaly/alt,/obj/item/clothing/suit/space/anomaly/alt,/obj/item/clothing/suit/space/anomaly/alt,/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"QO" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 1},/obj/effect/floor_decal/milspec/color/black/corner{dir = 8},/obj/structure/cable/blue{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"QR" = (/obj/structure/bed/chair/comfy/blue{dir = 1},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"QX" = (/obj/machinery/door/blast/angled/open{dir = 2; id = "bridgelockdown"},/turf/simulated/wall/tgmc/window/darkwall/reinf,/area/echoveil/command)
+"Rj" = (/obj/machinery/atmospherics/pipe/simple/hidden/aux,/obj/machinery/atmospherics/pipe/simple/hidden,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/radlock)
+"Ro" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 1; color = "#C0C0C0"},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"Ru" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 8},/obj/effect/floor_decal/milspec/color/black/corner,/obj/structure/cable/blue{icon_state = "4-8"},/obj/structure/cable/blue{icon_state = "1-4"},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"Rv" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 4},/obj/structure/cable/blue{icon_state = "1-4"},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"Rx" = (/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"RE" = (/turf/simulated/floor/tiled/milspec/raised,/area/space)
+"RH" = (/obj/effect/floor_decal/milspec/color/blue/half{dir = 1},/obj/effect/floor_decal/milspec/color/black/corner{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"Sa" = (/obj/effect/floor_decal/milspec/color/black/half,/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"Sd" = (/obj/effect/floor_decal/milspec/color/orange/half,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"Sf" = (/obj/structure/mirror{pixel_y = 26},/obj/structure/sink{pixel_y = 10},/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled/milspec/sterile,/area/echoveil/command/captainwc)
+"Sg" = (/obj/effect/catwalk_plated/dark,/obj/machinery/atmospherics/pipe/simple/hidden/aux{dir = 10},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"Sq" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/command/captain)
+"SC" = (/obj/structure/catwalk,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"SD" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/engineering/engine/controlroomstow)
+"SX" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"Tp" = (/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"Ts" = (/obj/structure/railing/grey{dir = 1},/obj/structure/railing/grey{dir = 4},/obj/machinery/computer/ship/sensors{icon_state = "adv_sensors"},/turf/simulated/floor/tiled/milspec/raised,/area/echoveil/command/bridge)
+"Tw" = (/turf/space/internal_edge/bottomleft,/area/echoveil/command/bridge)
+"TL" = (/obj/effect/floor_decal/milspec/color/black/corner{dir = 1; color = "#C0C0C0"},/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"TM" = (/obj/effect/floor_decal/milspec/color/black/half{color = "#C0C0C0"; dir = 5},/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"TO" = (/obj/machinery/power/apc/angled/hidden{dir = 8; req_one_access = list(777); is_critical = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 10},/obj/structure/closet/crate/bin{anchored = 1; density = 0; name = "trash bin"; pixel_y = 3},/obj/structure/cable/blue{icon_state = "0-4"},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"Uc" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/command)
+"Ui" = (/obj/machinery/atmospherics/pipe/simple/hidden/aux{dir = 5},/obj/machinery/atmospherics/binary/pump{dir = 8},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"Uw" = (/obj/machinery/light{dir = 4},/obj/structure/table/rack/shelf/steel,/obj/item/geiger,/obj/item/geiger,/obj/item/geiger,/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"UH" = (/obj/effect/floor_decal/milspec/color/black/corner{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"UI" = (/turf/simulated/wall/tgmc/durawall,/area/echoveil/command/hallway)
+"UJ" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 6},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"UP" = (/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"US" = (/obj/structure/catwalk,/obj/structure/railing,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"Vj" = (/obj/machinery/door/blast/angled/open{dir = 4; id = "bridgelockdown"},/turf/simulated/wall/tgmc/window/darkwall/reinf,/area/echoveil/command/captain)
+"Vl" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 9},/turf/simulated/floor/tiled/dark,/area/echoveil)
+"Vq" = (/obj/structure/bookcase,/turf/simulated/floor/tiled/dark,/area/echoveil/command/captain)
+"VC" = (/turf/simulated/floor/tiled/dark,/area/echoveil/command/bridge)
+"VD" = (/obj/mecha/combat/fighter/pinnace/loaded,/obj/machinery/atmospherics/portables_connector/aux{dir = 4},/obj/effect/floor_decal/industrial/outline/yellow,/turf/simulated/floor/tiled/milspec,/area/space)
+"VN" = (/turf/simulated/wall/tgmc/durawall/deco2,/area/space)
+"VR" = (/obj/machinery/light{dir = 1},/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"VX" = (/obj/machinery/light/floortube,/turf/simulated/floor/tiled/techfloor,/area/echoveil/engineering/engine/generatorcore)
+"VZ" = (/obj/effect/floor_decal/milspec/color/orange/half,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"We" = (/turf/simulated/floor/tiled/dark,/area/space)
+"Wg" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 8},/obj/structure/table/fancyblack,/obj/item/flashlight/lamp{pixel_x = -4; pixel_y = 11},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"Wk" = (/obj/structure/bed/chair/office/dark{dir = 8},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroom)
+"Wn" = (/obj/effect/floor_decal/milspec/color/black/corner,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+"Wy" = (/obj/effect/shuttle_landmark/premade/echoveil/starboard_abeam,/turf/space,/area/space)
+"WC" = (/obj/machinery/power/apc/angled/hidden{req_one_access = list(777); dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/starboardstowage)
+"WQ" = (/obj/machinery/atmospherics/pipe/simple/hidden/aux{dir = 4},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/obj/machinery/door/airlock/angled_bay/hatch/engineering{req_one_access = list(777); dir = 4},/obj/machinery/door/firedoor/glass,/obj/effect/floor_decal/milspec/monotile,/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/radlock)
+"Xc" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 10},/obj/structure/railing/grey{dir = 8},/obj/structure/railing/grey,/obj/structure/bed/chair/sofa/right/blue{dir = 4},/turf/simulated/floor/wood/alt,/area/echoveil/command)
+"Xp" = (/obj/structure/table/rack/shelf/steel,/obj/item/fuel_assembly/deuterium,/obj/item/fuel_assembly/deuterium,/obj/item/fuel_assembly/deuterium,/obj/fiftyspawner/phoron,/obj/fiftyspawner/phoron,/obj/item/fuel_assembly/tritium,/obj/item/fuel_assembly/tritium,/obj/item/fuel_assembly/tritium,/obj/effect/floor_decal/milspec/color/black/half{dir = 5},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/engine/controlroomstow)
+"Xs" = (/obj/effect/floor_decal/milspec/color/orange/half,/obj/effect/floor_decal/milspec/color/black/corner{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil)
+"XA" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 1},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/portstowage)
+"XB" = (/turf/simulated/wall/tgmc/window/darkwall,/area/space)
+"XD" = (/turf/simulated/floor/maglev,/area/echoveil/engineering/engine/generatorcore)
+"XE" = (/obj/effect/overmap/visitable/ship/echoveil,/turf/space,/area/space)
+"XM" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 8},/obj/structure/cable/blue{icon_state = "1-2"},/turf/simulated/floor/tiled/dark,/area/echoveil/command/hallway)
+"XP" = (/turf/simulated/floor/reinforced/airless,/area/space)
+"Yc" = (/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"YA" = (/obj/machinery/power/fusion_core/mapped{id_tag = "Echoveil"},/turf/simulated/floor/tiled/techfloor,/area/echoveil/engineering/engine/generatorcore)
+"YM" = (/obj/effect/floor_decal/milspec/color/black/half{color = "#C0C0C0"; dir = 9},/turf/simulated/floor/tiled/dark{color = "#C0C0C0"},/area/echoveil/command/bridge)
+"Zd" = (/obj/structure/railing/grey{dir = 1},/obj/structure/railing/grey{dir = 4},/obj/structure/railing/grey,/turf/simulated/floor/tiled/milspec/raised,/area/space)
+"Zf" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 8},/obj/structure/bed/double/padded{dir = 1},/obj/item/bedsheet/captaindouble{dir = 1},/turf/simulated/floor/wood/alt,/area/echoveil/command/captain)
+"Zg" = (/obj/structure/catwalk,/obj/structure/railing{dir = 8},/obj/structure/handrail{dir = 4; pixel_x = 8},/obj/machinery/atmospherics/unary/vent_pump/high_volume/aux{dir = 4},/obj/machinery/embedded_controller/radio/airlock/airlock_controller{dir = 4; id_tag = "echoveil_fusion_radlock"; req_one_access = list(777); pixel_x = -30},/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"Zh" = (/obj/structure/catwalk,/obj/machinery/light,/turf/simulated/floor/plating,/area/echoveil/engineering/engine/radlock)
+"Zr" = (/obj/machinery/light/small{dir = 1},/obj/structure/cable/blue{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/echoveil/substation/shield)
+"ZH" = (/obj/effect/floor_decal/milspec/color/black/half{dir = 4},/turf/simulated/floor/tiled/dark,/area/echoveil/engineering/hallway)
+
+(1,1,1) = {"
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvpEuvuvuvvOvOvOvOuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvrMuvuvuvcluwuwcluvFqVNhZuvtatauv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvttXPXPuvwUBDtbyRMouvuvuvuvuvVDEuuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvttXPXPuvwUmECmCmCmhpXBPkuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvttXPXPuvwUREREREREkwuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvAnKvKvAnuvuvbbAnIoXPuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvHLCXuvuvuvuvuvuvIbuvCnAnQFXPuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvclhZuwuwuwhZcluvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvclclelNONONOelclcluvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvKETppoOcuvuvuvuvuvclLEZdNONONOJvLEcluvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvAOCAkjuvuvuvuvuvclPzNONOJBNONOjgcluvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvclPhZdNONONOJvPhcluvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvclWeNONONOdrdragcluvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvclWeWeWeWeQAdhFlcluvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvNCuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvclclDBWeWeWedbclcluvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvclclhZvxWeWehZclcluvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvWeWeWeWeWeWeWeWeWeuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvWeWeWeWeWeWeWeWeWeuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvjruvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvlZvelZohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvAADulZohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvlZlZlZohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvrCuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohIiIiIiIiIiIiIiohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvWyuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohIimxZrwfJqJqIiohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohIiJqJqgIJqJqqVohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohmOJqbwgIIiIiIiohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohIiDFDNLiIiMCyVohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohohohohohohohohIiIiIiIiIiyVyVohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohfqGEGEGExPohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohwOtototowOohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohfqwOwOvNvNvNwOwOxPohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohoJMTvNpkpkpkvNMTHcohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohfqwOwOoQxgaRoXbGwOwOxPohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohTwMTvNyKMIDThblRvNMTLkohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohwOwOyKYMTLYckoTMlRwOwOohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohwODHIlmAsxsxsxmABrhkwOohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohwOcZLXQjpMtCTsQjkuGNwOohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohwOBVlrUHRoccRoDiLpamwOohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohwOwODdhsVCVCVCSXnwwOwOohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohIEqgqgwOwOTOteNutwNwwOwOohohohohohohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohitpRQXpRpRjNpRkdwOwIwOUIUIUIUIUIUIohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohitqPmGrwUcaPpRQOlFAcAcAclFCpUPUPUIohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohpRdiBGfwjZpRXMUPUPUPUPUPUPUPUPUIohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohpRXcvSfwwtELRuzoSaSaSaOeewewewUIohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohpRbVKMqpsQpRUIUIUIUIUIUIrLUPUPUIohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohSqSqSqNRSqbDPEPEPEPEPEUIRHpAnlUIohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohSqmyOJgEVqbDPEhRcgPEPEUIxSUPHPUIohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohEMVjWgQRcPVqbDPENalCSfPEFGrsggZHFGohohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohzUVjZfqdRvDLPjlyQHlClCPEFGjPggeQFGohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohSqvijoOIxNbDPEkZNTdvPEFGrsggZHFGohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohSqSqSqSqSqbDPEPEPEPEPEFGrsggZHFGohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohyVCsCsCsCsCsCsCsCsCsCsFGByVZApFGohohohohohohohohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohyVCsCsCsCsCsCsFGFGFGFGFGIhggggFGFGFGFGFGFGFGFGFGohohohohohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVHVHVHVHVHVHVHVHVFGFGQhwBuEuEkKkKkKwBuEuEuEuEuEwBOoFGFGFGFGFGFGFGFGFGFGFGohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVljVRXAXAXAVRDsbHGDuEzTWnfSrafSfSfSCTfSfSfSrafSCuGcuEyfMVonkXggggggkXggFGohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVIrSdRxRxRxRxefbHKgVZfSJhkxkxFFkxFoFoFokxFFkxkxbBfSVZxIMVonggggggggVZVZFGohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohHVgNgNOsOsOsOsOsFGFGNqFGkxkxPqmlPqPqnoPqPqmlPqkxkxFGNqFGFGFGFGFGFGFGLuLuFGohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohHVbqbqOstkQeQeOsVlJNIKObkxPqPqkxGKBZVXBZAEkxPqPqkxMEkDCdSDHBuKsJXpSDrtrtBQBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohHVRxRxOsfCUiMjWQMRPSndnzEVsbkxkxKsKsKsKsKskxkxPqkxgtslMPGWroNjNjQKSDsasaWCBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohHVRxRxOsSCSCSCOsXsjlKTxyEVmqBZxlLFLFXDLFLFxlBZPqEVQiWkBxSDyCNjNjUwSDsasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVHVRxRxOsSCZhxROsIHRjbaOsOsAhBZxlLFLFXDLFLFxlBZPqEVBoPeBxSDlLFEFEOOSDsasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVdIRxRxOsOsOsOsOsweAxSCwEbaixDDxlluluYAluluxlDJvcEVywFsfRSDSDSDSDSDSDsasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxRxHViTOsZgmsSgHjOQNKBZxlLFLFXDLFLFxlBZPqEVAimbUJALohBQsasasasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxRxHViTOsQDuCBtUScDmqBZxlLFLFXDLFLFxlBZPqEVrrUJALALohBQsasasasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxRxHVOsOsOsOsOsOsOsdykxkxKsKsKsKsKskxkxPqkxALALALohohBQsasasasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxRxHVohohohohohohkxPqPqkxGKBZBZBZAEkxPqPqkxohohohohohBQsasasasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxRxHVohohuvuvohohkxkxPqPqPqPqPqPqPqPqPqkxkxohohuvuvohBQBQsasasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxRxHVohohuvuvuvohohkxkxGikxGixeGikxkxGikxohohuvuvuvohohBQsasasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxRxHVohohuvuvuvuvohohohohohohohohohohohohohuvuvuvuvohohBQsasasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxRxHVohuvuvuvuvuvuvohohCsCsCsCsCsCsCsohohuvuvuvuvuvuvohBQsasasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxRxHVohuvuvuvuvuvuvuvohCsCsCsCsCsCsCsohuvuvuvuvuvuvuvohBQsasasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVHVRxRxRxRxHVohuvuvuvuvuvuvuvohohCsCsCsCsCsohohuvuvuvuvuvuvuvohBQsasasasaBQBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohHVRxRxRxRxHVohuvuvuvuvuvuvuvuvohCsCsCsCsCsohuvuvuvuvuvuvuvuvohBQsasasasaBQohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvIIuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxRxHVohuvuvuvuvuvuvuvuvohCsCsCsCsCsohuvuvuvuvuvuvuvuvohBQsasasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxHVHVohuvuvuvuvuvuvuvuvohCsCsCsCsCsohuvuvuvuvuvuvuvuvohBQBQsasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvtquvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxHVohohuvuvuvuvuvuvuvuvohCsCsCsCsCsohuvuvuvuvuvuvuvuvohohBQsasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVRxRxRxHVohuvuvuvuvuvuvuvuvohohCsCsCsCsCsohohuvuvuvuvuvuvuvuvohBQsasasaBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVHVHVHVHVohuvuvuvuvuvuvuvuvohCsCsCsCsCsCsCsohuvuvuvuvuvuvuvuvohBQBQBQBQBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohHVHVohohohohuvuvuvuvuvuvuvuvohCsCsCsCsCsCsCsohuvuvuvuvuvuvuvuvohohohohBQBQohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohuvuvuvuvuvuvuvuvuvuvohohCsCsCsCsCsCsCsohohuvuvuvuvuvuvuvuvuvuvohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohCsCsCsCsCsCsCsohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohuvohCsCsCsCsCsCsCsohuvohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohuvuvohCsCsCsCsCsCsCsohuvuvohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohuvuvuvohCsCsCsCsCsCsCsohuvuvuvohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohuvuvuvuvohCsCsCsCsCsCsCsohuvuvuvuvohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohCsCsCsCsCsCsCsohuvuvuvuvuvohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohCsCsCsCsCsohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohCsCsCsCsCsohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvohohohohohohohuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+uvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+XEuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuvuv
+"}

@@ -660,7 +660,7 @@
 #include "../offmap_vr/om_ships/lunaship.dm"
 #include "../offmap_vr/om_ships/sdf_corvettes.dm"
 
-#include "../umbreesships/battleship.dm"
+#include "../umbreesships/spaceyacht.dm"
 #include "../umbreesships/spacedock.dm"
 
 //////////////////////////////////////////////////////////////////////////////

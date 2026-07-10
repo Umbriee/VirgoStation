@@ -662,6 +662,7 @@
 
 #include "../umbreesships/spaceyacht.dm"
 #include "../umbreesships/spacedock.dm"
+#include "../umbreesships/umb_refiningandmining.dm"
 
 //////////////////////////////////////////////////////////////////////////////
 //Capsule deployed ships

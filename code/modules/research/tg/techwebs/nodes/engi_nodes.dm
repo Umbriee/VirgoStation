@@ -375,7 +375,8 @@
 		"industrial_reagent_splitter",
 		"industrial_reagent_waste_processor",
 		"pump_relay",
-		"fluid_pump"
+		"fluid_pump",
+		"hose"
 	)
 	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = TECHWEB_TIER_2_POINTS)
 	announce_channels = list(CHANNEL_ENGINEERING,CHANNEL_MEDICAL)

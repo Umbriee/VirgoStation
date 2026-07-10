@@ -135,3 +135,15 @@
 		RND_CATEGORY_CONSTRUCTION + RND_SUBCATEGORY_CONSTRUCTION_MATERIALS,
 	)
 	departmental_flags = DEPARTMENT_BITFLAG_SCIENCE | DEPARTMENT_BITFLAG_ENGINEERING
+
+/datum/design_techweb/hose
+	name = "Hose"
+	id = "hose"
+	build_type = AUTOLATHE | PROTOLATHE
+	materials = list(MAT_STEEL = 10) // Starts with amount = 1.. I find that very funny, but annoying. Max stacks to 10.
+	build_path = /obj/item/stack/hose
+	category = list(
+		RND_CATEGORY_INITIAL,
+		RND_CATEGORY_CONSTRUCTION + RND_SUBCATEGORY_CONSTRUCTION_MATERIALS,
+	)
+	departmental_flags = DEPARTMENT_BITFLAG_SCIENCE | DEPARTMENT_BITFLAG_ENGINEERING

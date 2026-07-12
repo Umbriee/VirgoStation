@@ -291,19 +291,20 @@
 /area/shuttle/stellacaelator_shuttle/medical
 	name = "Stella Caelator Shuttle - Medical"
 
+// Shuttle SystemMap Data
+/obj/effect/overmap/visitable/ship/landable/stellacaelator_shuttle
+	name			= "Stella Caelator Shuttle"
+	desc			= "Desc here"
+	icon_state		= "htu_destroyer_g"
+	vessel_mass		= 8000
+	vessel_size		= SHIP_SIZE_SMALL
+	shuttle			= "Stella Calelator Shuttle"
 // Shuttle Console
 /obj/machinery/computer/shuttle_control/explore/stellacaelator_shuttle
 	name			= "short jump console"
 	shuttle_tag		= "Stella Calelator Shuttle"
-	req_one_access	= list(777)
-// Shuttle Data
-/obj/effect/overmap/visitable/ship/landable/stellacaelator_shuttle
-	name = "Stella Caelator Shuttle"
-	desc = "Desc here"
-	icon_state = "htu_destroyer_g"
-	vessel_mass = 8000
-	vessel_size = SHIP_SIZE_SMALL
-	shuttle = "Stella Calelator Shuttle"
+	req_one_access	= list(777,ACCESS_PILOT)
+// Shuttle Define
 /datum/shuttle/autodock/overmap/stellacaelator_shuttle
 	name					= "Stella Caelator Shuttle"
 	warmup_time				= 0
@@ -321,7 +322,7 @@
 	)
 	fuel_consumption		= 3
 	move_direction			= NORTH
-	defer_initialisation	= TRUE
+	// defer_initialisation	= TRUE
 
 // Ship Data
 /obj/effect/overmap/visitable/ship/stellacaelator

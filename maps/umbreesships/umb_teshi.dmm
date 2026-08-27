@@ -1,0 +1,336 @@
+"av" = (/obj/machinery/door/airlock/angled_bay/standard/color/engineering{dir = 4},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"aC" = (/turf/simulated/floor/bluegrid/airless,/area/space)
+"aG" = (/obj/structure/hull_corner{dir = 4},/turf/space,/area/space)
+"aW" = (/obj/machinery/particle_accelerator/control_box/pre_mapped,/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"bF" = (/obj/structure/cable/heavyduty{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"ci" = (/obj/structure/catwalk,/obj/structure/lattice,/turf/space,/area/space)
+"cq" = (/obj/structure/catwalk,/turf/simulated/floor/plating/eris/under,/area/space)
+"cQ" = (/obj/structure/cable/heavyduty{icon_state = "0-8"},/obj/structure/cable/yellow{icon_state = "0-4"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"cS" = (/obj/structure/railing,/obj/structure/prop/statue,/turf/simulated/floor/grass,/area/space)
+"cX" = (/obj/structure/cable/green{icon_state = "1-2"},/obj/structure/cable/orange{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"cZ" = (/obj/machinery/power/tracker,/obj/structure/cable/yellow{icon_state = "0-2"},/obj/structure/cable/yellow{icon_state = "0-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"dh" = (/obj/structure/hull_corner/long_vert{dir = 6},/turf/simulated/floor/reinforced/airless,/area/space)
+"dP" = (/obj/structure/cable/heavyduty{icon_state = "2-4-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"eg" = (/obj/structure/cable/yellow{icon_state = "1-8"},/obj/structure/cable/yellow{icon_state = "1-2"},/turf/simulated/floor/reinforced/airless,/area/space)
+"eh" = (/obj/structure/cable/yellow{icon_state = "1-4"},/obj/structure/cable/yellow{icon_state = "1-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"ew" = (/obj/structure/prop/machine/conduit/starts_on,/turf/simulated/floor/bluegrid,/area/space)
+"fa" = (/turf/simulated/wall/bay/r_wall/orange,/area/space)
+"fc" = (/obj/structure/catwalk,/obj/structure/cable/green{icon_state = "4-8"},/obj/structure/cable/heavyduty{icon_state = "1-2"},/turf/simulated/floor/plating/eris/under,/area/space)
+"fw" = (/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"fN" = (/obj/structure/cable/yellow{icon_state = "2-8"},/obj/structure/cable/yellow{icon_state = "2-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"fO" = (/obj/machinery/power/solar_control{dir = 4},/obj/structure/cable/yellow,/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"fT" = (/obj/structure/lattice,/turf/space,/area/space)
+"fV" = (/obj/structure/cable/yellow{icon_state = "1-2"},/obj/structure/cable/yellow{icon_state = "1-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"ga" = (/obj/machinery/power/grounding_rod/pre_mapped,/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"go" = (/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"gy" = (/obj/structure/cable/yellow{icon_state = "1-2"},/obj/structure/cable/yellow{icon_state = "1-4"},/turf/simulated/floor/reinforced/airless,/area/space)
+"gC" = (/obj/structure/cable/orange{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"hg" = (/obj/machinery/field_generator/pre_mapped,/obj/structure/cable/yellow{icon_state = "2-4"},/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"hu" = (/obj/structure/cable/yellow{icon_state = "1-4"},/obj/structure/cable/yellow{icon_state = "1-2"},/turf/simulated/floor/reinforced/airless,/area/space)
+"hz" = (/obj/structure/prop/machine/comm_tower/starts_on,/turf/simulated/floor/reinforced/airless,/area/space)
+"hI" = (/obj/structure/catwalk,/obj/structure/prop/machine/bsb_on,/turf/simulated/floor/hull,/area/space)
+"hX" = (/obj/structure/hull_corner{dir = 1},/turf/space,/area/space)
+"hZ" = (/obj/structure/cable/yellow{icon_state = "2-4"},/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"ij" = (/obj/structure/cable/orange{icon_state = "1-2"},/obj/machinery/door/airlock/angled_bay/hatch/engineering,/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"io" = (/obj/machinery/door/airlock/angled_bay/double/glass/engineering{dir = 8},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"iq" = (/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"iM" = (/obj/effect/low_wall_spawner/bay/reinforced/rglass,/turf/simulated/floor/plating,/area/space)
+"iR" = (/obj/structure/cable/yellow{icon_state = "4-8"},/obj/structure/cable/yellow{icon_state = "1-4"},/turf/simulated/floor/reinforced/airless,/area/space)
+"jb" = (/obj/machinery/power/emitter/pre_mapped{dir = 4},/obj/structure/cable/yellow{icon_state = "0-4"},/turf/simulated/floor/plating/eris/under,/area/space)
+"jh" = (/obj/machinery/pointdefense,/turf/simulated/floor/reinforced/airless,/area/space)
+"jq" = (/obj/structure/hull_corner/long_vert{dir = 6},/turf/space,/area/space)
+"jC" = (/obj/machinery/power/terminal{dir = 1},/obj/structure/cable/green{icon_state = "0-2"},/obj/structure/cable/green{icon_state = "2-4"},/obj/machinery/power/sensor{name = "Raptora Victore Power Generation Out"; name_tag = "RV-PWR-GEN-OUT"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating/eris/under,/area/space)
+"jH" = (/turf/simulated/floor/glass/reinforced,/area/space)
+"jP" = (/obj/structure/lattice,/obj/structure/marker_beacon{mapped_in_color = "Burgundy"; name = "red beacon"; perma = 1},/turf/space,/area/space)
+"kl" = (/obj/structure/catwalk,/obj/structure/cable/heavyduty{icon_state = "1-2"},/turf/simulated/floor/plating/eris/under,/area/space)
+"ky" = (/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"kV" = (/obj/structure/cable/yellow{icon_state = "4-8"},/obj/structure/cable/yellow{icon_state = "2-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"li" = (/obj/structure/cable/green{icon_state = "1-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"lp" = (/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"lM" = (/obj/structure/cable/green{icon_state = "1-4"},/turf/simulated/floor/tiled/eris/dark/techfloor_grid,/area/space)
+"lR" = (/obj/structure/hull_corner{dir = 8},/turf/simulated/floor/reinforced/airless,/area/space)
+"lZ" = (/obj/structure/hull_corner/long_horiz{dir = 10},/turf/space,/area/space)
+"me" = (/obj/structure/cable/green{icon_state = "2-4"},/obj/structure/cable/green{icon_state = "1-4"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"mW" = (/obj/machinery/power/tesla_coil/relay/pre_mapped,/turf/simulated/floor/plating/eris/under,/area/space)
+"ns" = (/obj/structure/cable/orange{icon_state = "1-4"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"nK" = (/obj/structure/lattice,/obj/structure/marker_beacon{mapped_in_color = "Olive"; name = "green beacon"; perma = 1},/turf/space,/area/space)
+"og" = (/obj/structure/cable/yellow{icon_state = "2-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"ot" = (/obj/machinery/power/solar,/obj/structure/cable/yellow{icon_state = "0-8"},/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"oy" = (/obj/structure/cable/green{icon_state = "1-2"},/obj/structure/cable/green{icon_state = "1-4"},/turf/simulated/floor/plating/eris/under,/area/space)
+"oO" = (/obj/structure/cable/green{icon_state = "4-8"},/obj/structure/cable/yellow{icon_state = "1-2"},/turf/simulated/floor/tiled/eris/dark/techfloor_grid,/area/space)
+"oP" = (/obj/structure/cable/green{icon_state = "2-8"},/obj/structure/catwalk,/obj/structure/cable/green{icon_state = "2-4"},/turf/simulated/floor/plating/eris/under,/area/space)
+"oV" = (/obj/structure/cable/green{icon_state = "4-8"},/obj/structure/cable/green{icon_state = "1-4"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"oW" = (/obj/structure/cable/yellow{icon_state = "2-4"},/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"pg" = (/obj/structure/hull_corner{dir = 8},/obj/structure/cable/yellow{icon_state = "1-4"},/turf/simulated/floor/reinforced/airless,/area/space)
+"pt" = (/obj/machinery/power/tesla_coil/collector/pre_mapped,/obj/structure/cable/green{icon_state = "0-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"pG" = (/obj/structure/marker_beacon{mapped_in_color = "Burgundy"; name = "red beacon"; perma = 1},/turf/simulated/floor/reinforced/airless,/area/space)
+"pL" = (/turf/simulated/floor/plating/eris/under,/area/space)
+"pR" = (/obj/structure/cable/yellow{icon_state = "4-8"},/obj/structure/cable/yellow{icon_state = "1-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"qc" = (/obj/structure/hull_corner/long_vert{dir = 10},/turf/space,/area/space)
+"qj" = (/obj/machinery/power/grounding_rod/pre_mapped,/obj/structure/cable/yellow{icon_state = "1-2"},/turf/simulated/floor/plating/eris/under,/area/space)
+"qv" = (/obj/structure/cable/green{icon_state = "2-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"qU" = (/obj/structure/catwalk,/turf/simulated/floor/maglev,/area/space)
+"re" = (/obj/structure/cable/orange{icon_state = "2-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"rk" = (/turf/space/internal_edge/bottomright,/area/space)
+"rn" = (/obj/structure/railing,/turf/simulated/floor/grass,/area/space)
+"sj" = (/obj/structure/cable/green{icon_state = "1-4"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"sz" = (/obj/structure/cable/orange{icon_state = "1-4"},/turf/simulated/floor/plating/eris/under,/area/space)
+"sN" = (/obj/structure/hull_corner/long_horiz{dir = 9},/turf/space,/area/space)
+"sV" = (/obj/structure/cable/orange{icon_state = "4-8"},/obj/structure/cable/heavyduty{icon_state = "1-2"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"tq" = (/obj/machinery/power/tracker,/obj/structure/cable/yellow{icon_state = "0-4"},/obj/structure/cable/yellow{icon_state = "0-2"},/turf/simulated/floor/reinforced/airless,/area/space)
+"tG" = (/obj/structure/hull_corner,/turf/space,/area/space)
+"tH" = (/obj/structure/hull_corner/long_horiz{dir = 5},/turf/space,/area/space)
+"tV" = (/obj/structure/hull_corner,/obj/structure/cable/yellow{icon_state = "1-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"uq" = (/obj/structure/cable/yellow{icon_state = "4-8"},/obj/structure/cable/yellow{icon_state = "2-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"uv" = (/obj/machinery/power/solar_control{dir = 8},/obj/structure/cable/yellow,/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"vo" = (/obj/machinery/power/emitter/pre_mapped{dir = 8},/obj/structure/cable/yellow{icon_state = "0-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"vt" = (/obj/machinery/power/terminal{dir = 1},/obj/structure/cable/green{icon_state = "0-8"},/obj/structure/catwalk,/obj/structure/cable/green{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"vx" = (/obj/structure/cable/heavyduty{icon_state = "1-2"},/turf/simulated/wall/bay/r_wall/orange,/area/space)
+"vA" = (/obj/structure/particle_accelerator/power_box/pre_mapped,/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"vP" = (/turf/space,/area/space)
+"vW" = (/obj/structure/cable/green{icon_state = "4-8"},/obj/machinery/door/airlock/angled_bay/hatch/engineering{dir = 8},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"wf" = (/obj/structure/cable/orange{icon_state = "4-8"},/obj/machinery/door/airlock/angled_bay/double/glass/engineering{dir = 8},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"wt" = (/obj/machinery/door/airlock/engineering,/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"wx" = (/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/wall/bay/r_wall/green{desc = "It has a yellow stripe! A huge chunk of metal used to separate rooms."; stripe_color = "#ffff00"; name = "yellow"},/area/space)
+"xm" = (/turf/space/internal_edge/bottom,/area/space)
+"xs" = (/obj/structure/lattice,/obj/structure/hull_corner{dir = 8},/turf/space,/area/space)
+"xI" = (/turf/simulated/floor/plating,/area/space)
+"yl" = (/obj/structure/particle_accelerator/fuel_chamber/pre_mapped,/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"yM" = (/obj/structure/cable/yellow{icon_state = "1-2"},/turf/simulated/floor/plating/eris/under,/area/space)
+"yN" = (/obj/structure/cable/yellow{icon_state = "1-8"},/turf/simulated/floor/tiled/eris/dark/techfloor_grid,/area/space)
+"yO" = (/obj/structure/prop/memorial,/obj/structure/railing,/turf/simulated/floor/grass,/area/space)
+"zt" = (/obj/structure/catwalk,/obj/structure/prop/altevian_jump_drive,/turf/simulated/floor/maglev,/area/space)
+"zA" = (/turf/simulated/floor/reinforced/airless,/area/space)
+"Aa" = (/obj/structure/cable/orange{icon_state = "1-2"},/obj/structure/cable/heavyduty{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"Ao" = (/obj/machinery/field_generator/pre_mapped,/obj/structure/cable/yellow{icon_state = "1-8"},/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"AR" = (/obj/structure/hull_corner{dir = 8},/turf/space,/area/space)
+"AX" = (/obj/machinery/power/solar,/obj/structure/cable/yellow{icon_state = "0-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"BN" = (/obj/structure/lattice,/obj/structure/hull_corner{dir = 4},/turf/space,/area/space)
+"BZ" = (/obj/structure/cable/green{icon_state = "2-8"},/obj/structure/cable/green{icon_state = "1-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"CF" = (/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"CH" = (/obj/structure/hull_corner{dir = 1},/obj/structure/hull_corner{dir = 1},/turf/space,/area/space)
+"CS" = (/obj/structure/cable/green{icon_state = "0-2"},/obj/machinery/power/apc/angled{dir = 1; req_one_access = list(777); cell_type = /obj/item/cell/hyper},/obj/machinery/power/sensor{name = "Raptor Victore Master Grid"; name_tag = "RV-MASTER"},/obj/effect/catwalk_plated/dark,/turf/simulated/floor/plating/eris/under,/area/space)
+"Da" = (/obj/structure/cable/green{icon_state = "4-8"},/obj/structure/cable/green{icon_state = "2-4"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"Dd" = (/obj/structure/marker_beacon{mapped_in_color = "Olive"; name = "green beacon"; perma = 1},/turf/simulated/floor/reinforced/airless,/area/space)
+"Dn" = (/obj/structure/hull_corner/long_vert{dir = 5},/turf/space,/area/space)
+"DS" = (/obj/structure/particle_accelerator/end_cap/pre_mapped,/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"DU" = (/obj/structure/hull_corner/long_horiz{dir = 6},/turf/simulated/floor/reinforced/airless,/area/space)
+"Ej" = (/turf/simulated/wall/rpshull,/area/space)
+"Ez" = (/turf/space/internal_edge/bottomleft,/area/space)
+"EP" = (/turf/simulated/floor/tiled/techfloor,/area/space)
+"Fe" = (/obj/structure/lattice,/obj/structure/hull_corner,/turf/space,/area/space)
+"Fn" = (/obj/structure/cable/yellow{icon_state = "2-4"},/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"Gf" = (/obj/structure/cable/yellow{icon_state = "1-2"},/obj/effect/low_wall_spawner/bay/reinforced/rglass,/turf/simulated/floor/plating,/area/space)
+"Gj" = (/obj/structure/cable/green{icon_state = "1-2"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"GI" = (/obj/machinery/ion_engine{dir = 1},/turf/space,/area/space)
+"GQ" = (/turf/space/internal_edge/topleft,/area/space)
+"GY" = (/obj/structure/hull_corner/long_vert{dir = 10},/turf/simulated/floor/reinforced/airless,/area/space)
+"Hi" = (/obj/machinery/power/tesla_coil/splitter/pre_mapped,/turf/simulated/floor/plating/eris/under,/area/space)
+"Ho" = (/obj/structure/hull_corner/long_horiz{dir = 6},/turf/space,/area/space)
+"HO" = (/turf/simulated/floor/glass,/area/space)
+"HP" = (/obj/machinery/power/apc/angled{dir = 8; req_one_access = list(777)},/obj/structure/cable/orange{icon_state = "0-2"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"Im" = (/obj/machinery/field_generator/pre_mapped,/obj/structure/cable/yellow{icon_state = "1-4"},/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"IB" = (/obj/structure/cable/yellow{icon_state = "2-4"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"IE" = (/obj/machinery/power/terminal,/obj/structure/cable/green{icon_state = "0-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"IK" = (/obj/structure/cable/heavyduty{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"Ju" = (/obj/structure/catwalk,/obj/structure/cable/green{icon_state = "0-8"},/obj/structure/cable/heavyduty,/turf/simulated/floor/plating/eris/under,/area/space)
+"Jy" = (/turf/simulated/floor/tiled/eris/steel/techfloor,/area/space)
+"Jz" = (/turf/space/internal_edge/top,/area/space)
+"JA" = (/obj/machinery/power/smes/buildable/engine_default{RCon_tag = "SC - S_Engineering"; name = "Engineering Sub"},/obj/structure/cable/orange{icon_state = "0-8"},/obj/structure/cable/orange{icon_state = "0-4"},/turf/simulated/floor/plating/eris/under,/area/space)
+"Kj" = (/obj/structure/catwalk,/turf/simulated/floor/hull,/area/space)
+"Kk" = (/obj/structure/catwalk,/turf/simulated/floor/plating/eris,/area/space)
+"Kt" = (/turf/simulated/floor/tiled/eris/dark/techfloor_grid,/area/space)
+"KB" = (/obj/structure/cable/orange{icon_state = "1-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"KV" = (/obj/structure/cable/green{icon_state = "1-2"},/turf/simulated/floor/tiled/eris/dark/techfloor_grid,/area/space)
+"KZ" = (/obj/structure/cable/yellow{icon_state = "0-8"},/obj/structure/cable/heavyduty{icon_state = "0-4"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"LS" = (/turf/simulated/floor/plating/eris,/area/space)
+"LT" = (/obj/structure/cable/orange{icon_state = "2-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"Nh" = (/obj/machinery/power/breakerbox/activated{RCon_tag = "Engineering Substation Bypass"},/turf/simulated/floor/plating/eris/under,/area/space)
+"Nl" = (/obj/structure/hull_corner/long_horiz{dir = 10},/turf/simulated/floor/reinforced/airless,/area/space)
+"Ns" = (/obj/structure/hull_corner{dir = 1},/obj/structure/lattice,/turf/space,/area/space)
+"NG" = (/obj/machinery/field_generator/pre_mapped,/obj/structure/cable/yellow{icon_state = "2-8"},/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"Of" = (/turf/space/internal_edge/topright,/area/space)
+"Om" = (/obj/effect/blocker,/turf/simulated/floor/reinforced/airless,/area/space)
+"Ot" = (/obj/machinery/ion_engine{dir = 1; icon_scale_x = 2; pixel_x = 16},/turf/simulated/floor/reinforced/airless,/area/space)
+"Ow" = (/turf/simulated/floor/hull,/area/space)
+"Pi" = (/obj/structure/cable/green{icon_state = "4-8"},/obj/structure/cable/green{icon_state = "2-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"PH" = (/turf/simulated/wall/rshull,/area/space)
+"PK" = (/obj/machinery/power/smes/buildable/hyper_prefab{RCon_tag = "RV - Engine"; name = "Engine"; capacity = 1.272e+08; output_level = 2350000; output_level_max = 2350000; input_level = 2350000; input_level_max = 2350000},/obj/structure/cable/yellow{icon_state = "0-8"},/turf/simulated/floor/plating/eris/under,/area/space)
+"Qi" = (/obj/structure/lattice,/obj/structure/catwalk,/turf/space,/area/space)
+"Qk" = (/obj/structure/cable/yellow{icon_state = "4-8"},/obj/machinery/door/airlock/angled_bay/external/glass/red{dir = 4},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"QY" = (/obj/structure/hull_corner/long_vert{dir = 9},/turf/space,/area/space)
+"Rc" = (/obj/structure/cable/orange{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"Rd" = (/obj/structure/cable/green{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/techfloor_grid,/area/space)
+"Rn" = (/obj/structure/hull_corner,/turf/simulated/floor/reinforced/airless,/area/space)
+"RP" = (/obj/structure/cable/green{icon_state = "1-2"},/turf/simulated/wall/bay/r_wall/green,/area/space)
+"Tg" = (/obj/structure/cable/heavyduty{icon_state = "4-8"},/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"Th" = (/obj/structure/particle_accelerator/particle_emitter/left/pre_mapped,/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"TC" = (/obj/structure/cable/green{icon_state = "4-8"},/obj/structure/cable/green{icon_state = "1-4"},/obj/structure/catwalk,/turf/simulated/floor/plating/eris/under,/area/space)
+"TI" = (/obj/structure/particle_accelerator/particle_emitter/right/pre_mapped,/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"TZ" = (/obj/structure/cable/green{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"UO" = (/obj/structure/cable/yellow{icon_state = "1-8"},/obj/structure/cable/yellow{icon_state = "1-4"},/turf/simulated/floor/reinforced/airless,/area/space)
+"Ve" = (/obj/structure/particle_accelerator/particle_emitter/center/pre_mapped,/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+"Vy" = (/obj/machinery/door/airlock/angled_bay/standard/color/engineering,/turf/simulated/floor/tiled/techfloor/grid,/area/space)
+"VK" = (/turf/simulated/wall/bay/orange,/area/space)
+"Wb" = (/obj/structure/cable/green{icon_state = "2-4"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"Wc" = (/obj/machinery/power/solar,/obj/structure/cable/yellow{icon_state = "0-8"},/obj/structure/cable/yellow{icon_state = "0-8"},/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"Wi" = (/obj/machinery/power/tesla_coil/amplifier/pre_mapped,/turf/simulated/floor/plating/eris/under,/area/space)
+"Wx" = (/obj/structure/cable/orange{icon_state = "1-2"},/turf/simulated/floor/plating/eris/under,/area/space)
+"WV" = (/obj/machinery/power/grounding_rod/pre_mapped,/obj/structure/cable/yellow{icon_state = "1-8"},/obj/structure/cable/yellow{icon_state = "1-4"},/turf/simulated/floor/plating/eris/under,/area/space)
+"Xc" = (/obj/structure/cable/green{icon_state = "4-8"},/obj/structure/cable/green{icon_state = "1-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"Xk" = (/obj/structure/cable/yellow{icon_state = "2-4"},/turf/simulated/floor/reinforced/airless,/area/space)
+"XH" = (/obj/machinery/ion_engine{dir = 1; icon_scale_x = 2; icon_scale_y = 2; pixel_x = 16; pixel_y = 16},/turf/simulated/floor/reinforced/airless,/area/space)
+"XJ" = (/obj/machinery/the_singularitygen/tesla/pre_mapped,/turf/simulated/floor/plating/eris/under,/area/space)
+"XN" = (/obj/machinery/ion_engine,/turf/space,/area/space)
+"XX" = (/obj/structure/cable/green{icon_state = "1-2"},/obj/structure/cable/heavyduty{icon_state = "4-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"XY" = (/obj/machinery/power/solar,/obj/structure/cable/yellow{icon_state = "0-4"},/turf/simulated/floor/reinforced/airless,/area/space)
+"Yb" = (/obj/structure/railing{dir = 1},/turf/simulated/floor/grass,/area/space)
+"Ym" = (/obj/machinery/power/smes/buildable/hyper_prefab{RCon_tag = "RV - Main"; name = "Main"; capacity = 1.272e+08; output_level = 2350000; output_level_max = 2350000; input_level = 2350000; input_level_max = 2350000},/obj/structure/cable/green,/turf/simulated/floor/plating/eris/under,/area/space)
+"Yo" = (/obj/machinery/power/tesla_coil/collector/pre_mapped,/obj/structure/cable/green{icon_state = "0-4"},/turf/simulated/floor/plating/eris/under,/area/space)
+"Yt" = (/turf/simulated/floor/tiled/eris/steel/techfloor_grid,/area/space)
+"ZF" = (/obj/machinery/power/solar,/obj/structure/cable/yellow{icon_state = "0-4"},/obj/structure/cable/yellow{icon_state = "4-8"},/turf/simulated/floor/reinforced/airless,/area/space)
+"ZG" = (/obj/structure/cable/green{icon_state = "2-8"},/turf/simulated/floor/tiled/eris/dark/techfloor,/area/space)
+"ZQ" = (/turf/simulated/floor/tiled/eris/dark/danger,/area/space)
+
+(1,1,1) = {"
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjaCEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjaCEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjaCEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjaCEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjaCEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjaCEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPfTvPvPvPzAjhzAvPvPvPvPvPvPzAjhzAvPfTEjaCEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPfTvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjfTfTEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPfTvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjBNEjNsvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPfTEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjfTfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPpGEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjDdvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPjhEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjjhvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPzAEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjzAvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPhzEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjzAvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPpGEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjDdvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPjhEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjjhvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPzAEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjzAvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfTfTEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjfTfTvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjxsfTEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjfTFeEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjfTEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjfTEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjhXvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPaGEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjhXvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPaGEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjhXvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPaGEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPDnGIfTGIvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPXNfTXNQYvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPjPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPnKvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjlZvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfafafaVKVKVKVKVKVKVKVKEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPHovPEjEjEjEjEjEjEjEjqcvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfaxIfaEPEPVKEPEPEPEPVKEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPiMxIiMEPEPVKEPEPEPEPVKEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPiMxIiMEPEPVKEPEPEPEPVKVKVKVKVKVKVKVKEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfaxIfaEPEPVKEPEPEPEPVKGQJzJzJzJzOfVKEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPzAfaxIlpEPEPVKEPEPEPEPVKVKiMiMiMiMVKVKEjEjEjEjEjEjEjEjEjEjzAvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjEjEjhXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPjhfaxIfaEPEPVKEPEPEPEPVKVKcSyOrncSVKVKEjEjEjEjEjEjEjEjEjEjjhvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjCHvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPzAfaxIfaEPEPVKVKlpVKVKVKEPjHjHjHjHEPVKVKEjEjEjEjEjEjEjEjEjzAvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPjqEjEjEjEjEjEjEjEjEjEjEjEjsNvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPzAfaxIfaEPEPEPEPEPEPEPEPEPjHHOHOjHEPEPVKEjEjEjEjEjEjEjEjEjzAvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjsNvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfaxIfaEPEPEPEPEPEPEPEPEPjHHOHOjHEPEPVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjhXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfaxIfaEPEPVKVKlpVKVKVKEPjHjHjHjHEPVKVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjhXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfaxIfaEPEPVKEPEPEPEPVKVKYbYbYbYbVKVKEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjsNvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfaxIlpEPEPVKEPEPEPEPVKVKiMiMiMiMVKVKEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPDnEjsNvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfaxIfaEPEPVKEPEPEPEPVKEzxmxmxmxmrkVKEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPiMxIiMEPEPVKEPEPEPEPVKVKVKVKVKVKVKVKEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPiMxIiMEPEPVKEPEPEPEPVKEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfaxIfaEPEPVKEPEPEPEPVKEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfaxIfaEPEPVKEPEPEPEPVKEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPfafafaVKVKVKVKVKVKVKVKVKVKVKVKVKVKVKEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjVKVKhIqUKkKkqUhIVKVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjVKkyKjqUKkKkqUKjkyVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjVKkyhIztKkKkqUhIkyVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjVKkyOwewLSLSewOwkyVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjVKkyKjqUKkKkqUKjkyVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjVKkyKjqUKkKkqUKjkyVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjVKkyOwewLSLSewOwkyVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjVKkyKjqUKkKkqUKjkyVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjVKVKKjqUKkKkqUKjVKVKEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjVKOwewLSLSewOwVKEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjVKVKVKVKVKVKVKVKEjEjEjEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPaGOtOmEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjOtOmhXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjfafafafafafaVyfaVyfafafafafafaEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPzAjhzAzApGvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjfaJyJyJyfakyKtkylMZGfaJyJyJyfaEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPDdzAzAjhzAvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPzAzAzAzAzAzAzAzAvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjfaJyJyJyfakykykykyGjfaJyJyJyfaEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPzAzAzAzAzAzAzAzAvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPpGXYZFCFCFogzAzAzAzAvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjfaJyJyYtavKtkykykyKVavYtJyJyfaEjEjEjEjEjEjvPvPvPvPvPvPvPvPzAzAzAzAXkCFCFWcAXDdvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPXYZFZFZFiRCFCFcZzAzAzAvPvPvPvPvPvPEjEjEjEjEjEjEjfafaJyJyfakykykykyGjfaJyJyfafaEjEjEjEjEjEjvPvPvPvPvPvPzAzAzAtqCFCFpRotototAXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPXYZFZFZFZFCFfVzAzAzAzAzAcicicicifafafafafafafafafafafafaHPkykykyGjfafafafafafafafafafafaQiQiQiQizAzAzAzAzAgyCFototototAXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPXYZFZFZFZFUOuqCFCFCFCFCFCFCFCFQkfwQkkVKZbFbFbFbFbFbFTgAaIKIKIKXXTgbFbFdPbFbFcQhZQkfwQkCFCFCFCFCFCFCFCFFnehototototAXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPXYZFZFZFZFUOogzAzAzAzAzAzARnfalpfafOkykykykykykykyionsRcRcRccXwfgCgCsVgCgCLTuvfalpfalRzAzAzAzAzAzAXkehototototAXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPXYZFZFZFZFUOogzAzAzAzAzAEjfafafafafafafafafafafafakyZQDSZQGjfafafavxfafaijfafafaEjEjzAzAzAzAzAXkehototototAXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPXYZFZFZFZFUOfNzAzAzAdhEjEjEjEjEjEjEjEjfafakykyfakyaWylZQGjfaCScqvxfapLszrefaEjEjEjGYzAzAzAXkehototototAXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPXYZFZFZFegzADUzAEjEjEjEjEjEjEjEjEjfakykyKtwtKtZQvAZQlMvWTCoPfcvWqvpLWxfaEjEjEjEjNlzAzAhuotototAXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPXYZFegRnEjEjEjEjEjEjEjEjEjEjEjfakykykyfakyTIVeThIBwxPKYmklfaoyIEWxfaEjEjEjEjEjEjlRhuotAXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPXYtVEjEjEjEjEjEjEjEjEjEjEjEjfakyKtkyfaKtZQoWiqyNfajCvtJufaNhJAKBfaEjEjEjEjEjEjEjpgAXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjEjfafawtfafaiMiMGfiMiMfaRPfafafafafafafaEjEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjEjfafaWbRdTZTZRdRdoORdRdTZXcTZZGfafaEjEjEjEjEjEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjEjfafaWbXcptcicicipLyMpLciciciYooVZGfafaEjEjEjEjEjEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjEjEjEjEjEjEjfaWbXcptpLpLjbgohgWVNGgovopLpLYooVZGfaEjEjEjEjEjEjEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjEjsNvPvPEjEjEjEjfameptpLpLHimWWiqjXJqjWimWHipLpLYoBZfaEjEjEjvPtHvPEjEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjsNvPvPvPDnEjEjEjEjfasjPiptpLpLjbgoImgaAogovopLpLYoDalifaEjEjEjQYvPvPtHvPEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjEjEjEjhXvPvPvPvPvPvPEjEjEjfafasjTZptcicicipLpLpLciciciYoTZlifafaEjEjvPvPvPvPvPvPaGEjEjEjEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjPHPHPHvPvPvPvPvPvPvPvPEjEjEjEjfafakykykykykykykykykykykykykyfafaEjEjEjvPvPvPvPvPvPvPvPPHPHPHEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjPHPHPHPHQYvPvPvPvPvPvPvPEjEjEjEjEjfafafafafafafafafafafafafafafaEjEjEjEjvPvPvPvPvPvPvPDnPHPHPHPHEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjPHPHPHPHhXvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPaGPHPHPHPHEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPtGEjEjEjEjPHPHPHPHhXvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjhXEjEjEjEjaGEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPaGPHPHPHPHEjEjEjEjARvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPaGEjEjEjPHPHPHPHhXvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjvPaGEjEjhXvPEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPaGPHPHPHPHEjEjEjhXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPaGEjEjPHPHPHhXvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPEjEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPaGPHPHPHEjEjhXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPaGEjPHPHhXvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjEjEjvPvPvPvPvPvPEjEjEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPaGPHPHEjhXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPaGPHhXvPvPvPvPvPvPvPvPvPvPvPvPvPDnEjEjEjEjEjEjEjhXvPvPvPvPvPvPaGEjEjEjEjEjEjEjQYvPvPvPvPvPvPvPvPvPvPvPvPvPaGPHhXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPpGvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPDdvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjEjEjEjEjEjQYvPvPvPvPvPvPvPvPDnEjEjEjEjEjEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPEjOmOmOmOmvPvPvPvPvPvPvPvPvPvPvPvPOmOmOmOmEjvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPaGXHOmXHOmQYvPvPvPvPvPvPvPvPvPvPDnXHOmXHOmhXvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+vPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvPvP
+"}
